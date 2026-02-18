@@ -1,0 +1,1 @@
+﻿public enum RedemptionFeePenaltyInterval { never, always, interval }
