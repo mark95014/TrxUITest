@@ -1,5 +1,8 @@
 This is an automated test of the Trx web application.
 
+### Design document
+* TrxUITest-Design.docx
+
 ### How to run the tests
 * **Docker method**
   * Copy ../TestRail into the TrxUITest directory *
